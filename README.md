@@ -17,6 +17,32 @@ A full-stack web application that transforms documents into engaging, podcast-st
 
 ---
 
+## 📸 Application Screenshots
+
+<p align="center">
+  <img src="Images/Home - Audio Generation.png" width="45%">
+  <img src="Images/Q&A.png" width="45%">
+</p>
+
+<p align="center">
+  <b>Audio Generation</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Q&A Module</b>
+</p>
+
+<p align="center">
+  <img src="Images/Quiz.png" width="45%">
+  <img src="Images/Evaluation.png" width="45%">
+</p>
+
+<p align="center">
+  <b>Quiz Section</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Evaluation Dashboard</b>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Backend:** Python, Flask  
